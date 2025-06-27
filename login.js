@@ -1,4 +1,4 @@
-// Show login modal
+
 const openLoginBtn = document.getElementById('open-login');
 const loginModal = document.getElementById('login-modal');
 const closeLoginBtn = document.getElementById('close-login');
@@ -25,7 +25,7 @@ loginForm.addEventListener('submit', function(e) {
     }
 });
 
-// Sign Up modal logic
+
 const openSignupBtn = document.getElementById('open-signup');
 const signupModal = document.getElementById('signup-modal');
 const closeSignupBtn = document.getElementById('close-signup');
