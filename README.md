@@ -1,2 +1,2 @@
-# Ecommerce-withDOM
-i have created a E-commerce website in my third week of my internship by implementing DOM on existing html,css
+# e-commerce
+i have created  a static ecommerce web page in  my second week of  Internship
